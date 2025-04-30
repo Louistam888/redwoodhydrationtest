@@ -5314,6 +5314,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@storybook/react-dom-shim@https://verdaccio.tobbe.dev/@storybook/react-dom-shim/-/react-dom-shim-8.0.8.tgz":
+  version: 8.0.8
+  resolution: "@storybook/react-dom-shim@https://verdaccio.tobbe.dev/@storybook/react-dom-shim/-/react-dom-shim-8.0.8.tgz"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0 || ^18.0.0
+    react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0
+  checksum: 10c0/993d7e5032d82a496ddff82eefd4a097c743554def5d44aa7dcd43e80e1b619f07bc6f19d3876fb76663b7116f443fb614800786bc49c054f91af0d7bee0c197
+  languageName: node
+  linkType: hard
+
 "@swc/core-darwin-arm64@npm:1.7.28":
   version: 1.7.28
   resolution: "@swc/core-darwin-arm64@npm:1.7.28"
@@ -15519,6 +15529,7 @@ __metadata:
   dependencies:
     "@redwoodjs/core": "npm:8.6.1"
     "@redwoodjs/project-config": "npm:8.6.1"
+    "@storybook/react-dom-shim": "https://verdaccio.tobbe.dev/@storybook/react-dom-shim/-/react-dom-shim-8.0.8.tgz"
   languageName: unknown
   linkType: soft
 
